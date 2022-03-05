@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/url-short/static/css/main.00fb0ac2.css",
+    "main.js": "/url-short/static/js/main.da2053df.js",
+    "index.html": "/url-short/index.html",
+    "main.00fb0ac2.css.map": "/url-short/static/css/main.00fb0ac2.css.map",
+    "main.da2053df.js.map": "/url-short/static/js/main.da2053df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00fb0ac2.css",
+    "static/js/main.da2053df.js"
+  ]
+}
